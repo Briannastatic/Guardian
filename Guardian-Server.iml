@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/out/production/Guardian" />
+    <output-test url="file://$MODULE_DIR$/out/test/Guardian-Server" />
+    <content url="file://$MODULE_DIR$/Guardian-Server">
+      <sourceFolder url="file://$MODULE_DIR$/Guardian-Server/src/main/java" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
